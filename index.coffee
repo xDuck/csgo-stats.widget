@@ -37,9 +37,6 @@ style: """
   a
     color: #{fontcolor}
     text-decoration:none;
-    &:hover
-      cursor:pointer
-      color: #666
 
   .wrapper 
     border-radius: #{radius}
